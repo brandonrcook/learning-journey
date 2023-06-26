@@ -11,6 +11,13 @@ This project serves as a personal learning platform for exploring the developmen
 
 Feel free to explore the codebase, experiment with different concepts, and modify the existing code to understand how Motoko, JavaScript, and React are utilized together. This project is not intended for production use, but rather for personal learning and experimentation purposes.
 
+sudo apt install git curl wget build-essential
+curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+sudo apt install -y nodejs
+
+IC SDK
+sh -ci "$(curl -fsSL https://internetcomputer.org/install.sh)"
+
 ## License
 
 This project is licensed under the [Apache License 2.0](LICENSE.md). Please review the license file for more information.
