@@ -14,6 +14,7 @@ Feel free to explore the codebase, experiment with different concepts, and modif
 sudo apt install git curl wget build-essential
 curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 sudo apt install -y nodejs
+npm install -g npm@9.7.2
 
 IC SDK
 sh -ci "$(curl -fsSL https://internetcomputer.org/install.sh)"
