@@ -17,7 +17,7 @@ This project is licensed under the [Apache License 2.0](LICENSE.md). Please revi
 
 ## Author
 
-- Brandon Cook(https://github.com/your-username) - Developer and learner
+- Brandon Cook(https://github.com/brandonrcook) - Developer and learner
 
 Feel free to reach out if you have any questions or suggestions.
 
